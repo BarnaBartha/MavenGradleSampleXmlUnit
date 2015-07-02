@@ -1,0 +1,8 @@
+<testNode>
+    <testAttribute1>1</testAttribute1>
+    <testAttribute2>2</testAttribute2>
+    <subNode>
+        <subAttr>2</subAttr>
+        <subAttr>1</subAttr>
+    </subNode>
+</testNode>
